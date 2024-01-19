@@ -12,7 +12,6 @@ In this folder I have used Python programming language, and with the help of API
 
 [IEX Cloud Documentation](https://iexcloud.io/docs)
 
-
 2. In the second folder i have used COINAPI, where I have used this API to retrive the prices of the stocks. Below is the documentation, you can register and get a free API key 
 
 [CoinAPI](https://www.coinapi.io/)
